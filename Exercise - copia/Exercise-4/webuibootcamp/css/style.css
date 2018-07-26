@@ -1,0 +1,40 @@
+*{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	
+	font-weight: bolder;
+	border-top-width: 5px;
+	border-left-width: 5px;
+	border-right-width: 5px;
+	border-bottom-width: 5px;
+}
+body{
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStoiubTlqfBNjsRRbmVIMbrWUX4xDR1twbUezuf3F75WKZkwMU");
+}
+p{
+	text-align: center;
+}
+div{
+	text-align: center;
+}
+button{
+	stext-align: center;
+
+}
+input{
+
+}
+textarea{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 250px;
+    height: 100px;
+}
+#Titulo{
+	width: 250px;
+	height: 20px;
+}
+#Descripcion{
+
+	text-align: center;
+}

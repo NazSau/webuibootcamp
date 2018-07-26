@@ -1,0 +1,10 @@
+div{
+	display: flex;
+	align-items:  center;
+	justify-content: center;
+}
+button{
+	font-weight: bold;
+	font-size: 50px;
+	background: red;
+}

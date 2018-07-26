@@ -1,0 +1,13 @@
+*{
+	font-family: sans-serif;
+	font-weight: bolder;
+	background-color: #a8cf45;
+}
+
+li{
+	margin: 10px 10px;
+	text-align: center;
+	font-weight: bolder;
+	padding: 15px 30px;
+	vertical-align: middle;
+}

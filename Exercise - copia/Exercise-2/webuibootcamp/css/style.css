@@ -1,0 +1,27 @@
+*{
+    font-family: 'code_boldregular';
+}
+/*div{
+    display: flex;
+    align-items:  center;
+    justify-content: center;
+}*/
+body{
+    background-image: url(https://k37.kn3.net/taringa/5/5/0/6/2/6/2/rmoya29/E5A.jpg?1779);
+}
+
+ 
+#reloj{
+    background: rgba(0,1,0,.7);
+    display: block;
+    margin: 0 0 40px 40px;
+    text-align: center;
+    width: 500px;
+}
+ 
+#reloj > p{
+    color: #fff;
+    display: inline-block;
+    font-family: 'code_boldregular';
+    font-size: 6em;
+}
